@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="../assets/logo.png" alt="Santos Lessa" width="120" />
-
-# Santos Lessa
-
 ### Technology built around real businesses.
 
 AI, software and digital products designed to help small and medium sized businesses grow.
