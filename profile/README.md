@@ -4,7 +4,7 @@
 
 AI, software and digital products designed to help small and medium sized businesses grow.
 
-**[santoslessa.com](https://www.santoslessa.com)**
+**[www.santoslessa.com](https://www.santoslessa.com)**
 
 </div>
 
